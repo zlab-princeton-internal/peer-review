@@ -15,7 +15,7 @@ Two students pair up and focus on one paper at a time. Book a **two-hour session
 ## Before the Session
 
 **Author**:
-- Use every available means (self-check, AI, peer feedback) to ensure the paper has reached the best possible quality.
+- Use every available means (self-check, AI, peer feedback) to ensure the paper has reached the best possible quality. You can use our [AI paper checker](https://github.com/zlab-princeton-internal/paper-checking-prompt) or your own preferred AI tools.
 - Pass all [writing requirements](https://github.com/zlab-princeton-internal/writing-guide) before the session. Do not bring a draft that still has obvious issues.
 
 **Reviewer**:

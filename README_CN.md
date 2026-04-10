@@ -15,7 +15,7 @@
 ## Session 之前
 
 **作者**：
-- 用尽一切手段（自查、AI、同行反馈）确保论文达到最佳质量。
+- 用尽一切手段（自查、AI、同行反馈）确保论文达到最佳质量。可以使用我们的 [AI 论文检查](https://github.com/zlab-princeton-internal/paper-checking-prompt)，也可以用你自己喜欢的 AI 工具。
 - Session 之前必须通过所有 [writing requirements](https://github.com/zlab-princeton-internal/writing-guide)。不要带着还有明显问题的稿子来。
 
 **审稿人**：
