@@ -16,7 +16,7 @@ Two students pair up and focus on one paper at a time. Book a **two-hour session
 
 **Author**:
 - Use every available means (self-check, AI, peer feedback) to ensure the paper has reached the best possible quality.
-- Pass all writing requirements before the session. Do not bring a draft that still has obvious issues.
+- Pass all [writing requirements](https://github.com/zlab-princeton-internal/writing-guide) before the session. Do not bring a draft that still has obvious issues.
 
 **Reviewer**:
 - Read the entire paper word by word, sentence by sentence, from start to finish. At least once.
@@ -34,7 +34,7 @@ Two students pair up and focus on one paper at a time. Book a **two-hour session
 
 **Both**:
 - Print two copies of the paper and bring pens to the session.
-- Also print the writing guide, figure guide, and AI-generated report (if you ran one). Bring all relevant materials.
+- Also print the [writing guide](https://github.com/zlab-princeton-internal/writing-guide), [figure guide](https://github.com/zlab-princeton-internal/figure-guide), and AI-generated report (if you ran one). Bring all relevant materials.
 
 ## During the Session
 
@@ -42,7 +42,7 @@ Two people, two hours, nothing else. Go through the paper together and keep find
 
 - Go through the paper page by page on the printed copies
 - Discuss and debate any issues found
-- Run AI checks live and discuss the AI-generated report together
+- Run [AI checks](https://github.com/zlab-princeton-internal/paper-checking-prompt) live and discuss the AI-generated report together
 - Fix issues on the spot if possible
 
 **If you think there are no more issues, keep looking. You will find new ones.** Do not end the session early just because nothing is immediately obvious. Two full hours, no shortcuts.

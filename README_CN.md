@@ -16,7 +16,7 @@
 
 **作者**：
 - 用尽一切手段（自查、AI、同行反馈）确保论文达到最佳质量。
-- Session 之前必须通过所有 writing requirements。不要带着还有明显问题的稿子来。
+- Session 之前必须通过所有 [writing requirements](https://github.com/zlab-princeton-internal/writing-guide)。不要带着还有明显问题的稿子来。
 
 **审稿人**：
 - 从头到尾逐字逐句读完整篇论文。至少一遍。
@@ -34,7 +34,7 @@
 
 **双方**：
 - 打印两份论文，带上笔，带到 session 中。
-- 同时打印 writing guide、figure guide、以及 AI 生成的 report（如果跑过的话）。把所有相关资料都带上。
+- 同时打印 [writing guide](https://github.com/zlab-princeton-internal/writing-guide)、[figure guide](https://github.com/zlab-princeton-internal/figure-guide)、以及 AI 生成的 report（如果跑过的话）。把所有相关资料都带上。
 
 ## Session 进行中
 
@@ -42,7 +42,7 @@
 
 - 对着打印稿逐页过
 - 讨论和辩论发现的任何问题
-- 现场跑 AI 检查，对着 AI 生成的 report 一起讨论
+- 现场跑 [AI 检查](https://github.com/zlab-princeton-internal/paper-checking-prompt)，对着 AI 生成的 report 一起讨论
 - 能当场修的就当场修
 
 **如果觉得已经没有问题了，继续看。一定会发现新的问题。** 不要因为暂时看不出问题就提前结束。两个小时，不要缩短。
