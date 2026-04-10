@@ -81,19 +81,10 @@ After the session, produce four written deliverables:
 
 **4. Peer review process feedback.** Feedback on the peer review system itself. What worked well and what didn't. For example: Was printing useful? Was two hours too long or too short? Was the reviewer's background too close or too far from the paper's topic? Was the scheduling convenient? Was the whole process valuable or unnecessary? Be honest. Both positive and negative feedback help improve the system.
 
-## Philosophy: Do Not Over-Rely on AI
+## Philosophy: Internalize the Guidelines
 
-**AI is the last resort, not the first step.**
+Read the writing guide and figure guide thoroughly **when you start writing**, not at the end. Internalize what each rule actually means. The point is not to memorize a checklist, but to develop your own sense of what good writing looks like.
 
-Read the writing guide and figure guide thoroughly **when you start writing**, not at the end. Internalize what each rule actually means. If you only run AI checks at the last minute without understanding the guidelines, you will:
-- Waste time fixing things that should have been right from the start
-- Not understand *why* the AI is flagging something
-- Not improve your own writing ability
+Always self-check first. Go through the paper yourself until you cannot find any more issues. Then you can use AI to catch what you missed. AI is most useful after you have already done your own thorough pass, because you will understand *why* it flags something and whether the flag is valid.
 
-The right order is:
-1. Read and understand the guidelines before writing
-2. Self-check thoroughly until you cannot find any more issues
-3. Do peer review. Discuss with your partner, learn from each other.
-4. Only then, run AI checks as a final safety net.
-
-Only when you deeply understand every guideline and have discussed it with your peer can you properly interpret the AI-generated report. **In the long run, this builds your writing skills. Relying on AI from the start does not.**
+**In the long run, this builds your writing skills. Skipping the self-check and jumping straight to AI does not.**
