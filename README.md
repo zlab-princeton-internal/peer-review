@@ -81,6 +81,17 @@ After the session, produce four written deliverables:
 
 **4. Peer review process feedback.** Feedback on the peer review system itself. What worked well and what didn't. For example: Was printing useful? Was two hours too long or too short? Was the reviewer's background too close or too far from the paper's topic? Was the scheduling convenient? Was the whole process valuable or unnecessary? Be honest. Both positive and negative feedback help improve the system.
 
+## Additional High-Level Feedback
+
+Beyond the paired peer review, the author should seek **1-2 more people** for high-level feedback. These reviewers do not need to check formatting or figure rules. They only need to read the abstract, introduction, and contributions, and give honest feedback on:
+
+- Is it clear what the paper does and why it matters?
+- Are the contributions easy to understand?
+- Is the writing reader-friendly?
+- Would they want to read the rest of the paper?
+
+This is a lighter ask (about one hour of effort per person) and can happen before or after the paired session. The point is that the more people read your abstract and introduction, the better. The author should actively seek this out.
+
 ## Philosophy: Internalize the Guidelines
 
 Read the writing guide and figure guide thoroughly **when you start writing**, not at the end. Internalize what each rule actually means. The point is not to memorize a checklist, but to develop your own sense of what good writing looks like.

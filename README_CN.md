@@ -81,6 +81,17 @@ Session 结束后，整理四份书面交付物：
 
 **4. Peer review 流程 feedback。** 对 peer review 制度本身的反馈。哪里 work 得好，哪里 work 得不好。比如：打印论文有没有用？两小时够不够？reviewer 的领域跟论文是太近还是太远？时间安排是否方便？整个流程是否有必要？正面和负面反馈都要说。有助于改进制度本身。
 
+## 额外的高层反馈
+
+除了配对 peer review 之外，作者还应该再找 **1-2 个人** 给高层反馈。这些人不需要检查格式或图表规则，只需要读 abstract、introduction 和 contributions，给出诚实的反馈：
+
+- 论文在做什么、为什么重要，是否清楚？
+- Contributions 是否容易理解？
+- 写作是否对读者友好？
+- 他们是否想继续读下去？
+
+这个要求比较轻（每人大约一小时），可以在配对 session 之前或之后进行。核心是：越多人读过你的 abstract 和 introduction 越好。作者应该主动去找这样的反馈。
+
 ## 理念：内化 Guidelines
 
 在**开始写作时**就好好读一遍 writing guide 和 figure guide，而不是等到最后。深入领会每条规则的实际含义。重点不是背一个 checklist，而是培养自己对好的写作的感觉。
