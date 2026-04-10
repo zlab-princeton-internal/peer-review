@@ -90,7 +90,7 @@ Beyond the paired peer review, the author should seek **1-2 more people** for hi
 - Is the writing reader-friendly?
 - Would they want to read the rest of the paper?
 
-This is a lighter ask (about one hour of effort per person) and can happen before or after the paired session. The point is that the more people read your abstract and introduction, the better. The author should actively seek this out.
+This is a lighter ask (about one hour of effort per person) and can happen before or after the paired session. The author should actively seek this out.
 
 ## Philosophy: Internalize the Guidelines
 
