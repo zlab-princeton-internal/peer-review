@@ -73,7 +73,7 @@ During the session, use **Notion transcription** to record the discussion (to av
 
 After the session, produce four written deliverables:
 
-**1. Paper feedback.** All fixes and suggestions raised during the session, organized by person. Each fix is attributed to whoever raised it, listed under their name. When you find a good fix, take a screenshot before and after as an example. These can be collected to improve the writing and figure guides.
+**1. Paper feedback.** All fixes and suggestions raised during the session, organized by person. Each fix is attributed to whoever raised it, listed under their name. Collect screenshot examples along the way: bad examples, good examples, and before/after comparisons showing how a fix improved something. These can be used to improve the writing and figure guides.
 
 **2. Guide feedback.** Any issues found with the paper writing guidelines or figure guidelines themselves: rules that are unclear, missing, redundant, or failed to catch a problem. This helps improve the guides over time.
 
