@@ -96,7 +96,7 @@ Beyond the paired peer review, the author should also seek **1-2 more people** f
 
 The author should actively seek this out, before or after the paired session.
 
-## Philosophy: Internalize the Guidelines
+## Philosophy: Internalize What Good Writing Is
 
 Read the writing guide and figure guide thoroughly **when you start writing**, not at the end. Internalize what each rule actually means. The point is not to memorize a checklist, but to develop your own sense of what good writing looks like.
 
