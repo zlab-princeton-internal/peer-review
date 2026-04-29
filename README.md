@@ -4,7 +4,7 @@
 
 > This guide is intended for [Zhuang Liu](https://liuzhuang13.github.io/)'s group members. Others are welcome to adopt or adapt it for their own use.
 
-**Related**: [Writing Guide](https://github.com/zlab-princeton-internal/writing-guide) · [Figure Guide](https://github.com/zlab-princeton-internal/figure-guide) · [Paper Checking Prompt](https://github.com/zlab-princeton-internal/paper-checking-prompt)
+**Related**: [Writing Guide](https://github.com/zlab-princeton-internal/writing-guide) · [Figure Guide](https://github.com/zlab-princeton-internal/figure-guide) · [AI Paper Checking](https://github.com/zlab-princeton-internal/ai-paper-checking)
 
 ## Format
 
@@ -31,7 +31,7 @@ Take notes during the session so you can produce these afterwards. Feel free to 
 ## Before the Session
 
 **Author**:
-- Use every available means (self-check, AI, peer feedback) to ensure the paper has reached the best possible quality. You can use our [AI paper checker](https://github.com/zlab-princeton-internal/paper-checking-prompt) or your own preferred AI tools.
+- Use every available means (self-check, AI, peer feedback) to ensure the paper has reached the best possible quality. You can use our [AI paper checker](https://github.com/zlab-princeton-internal/ai-paper-checking) or your own preferred AI tools.
 - Pass all [writing](https://github.com/zlab-princeton-internal/writing-guide) and [figure](https://github.com/zlab-princeton-internal/figure-guide) requirements before the session. Do not bring a draft that still has obvious issues.
 
 **Reviewer**:
@@ -58,7 +58,7 @@ Two people, two hours, nothing else. Go through the paper together and keep find
 
 - Go through the paper page by page on the printed copies
 - Discuss and debate any issues found
-- Run [AI checks](https://github.com/zlab-princeton-internal/paper-checking-prompt) live and discuss the AI-generated report together
+- Run [AI checks](https://github.com/zlab-princeton-internal/ai-paper-checking) live and discuss the AI-generated report together
 - Fix issues on the spot if possible
 
 **If you think there are no more issues, keep looking. You will find new ones.** Do not end the session early just because nothing is immediately obvious. Two full hours, no shortcuts.

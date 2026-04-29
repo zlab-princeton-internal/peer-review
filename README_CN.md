@@ -4,7 +4,7 @@
 
 > 本指南面向 [Zhuang Liu](https://liuzhuang13.github.io/) 组内成员。欢迎其他人参考或改编使用。
 
-**相关**: [Writing Guide](https://github.com/zlab-princeton-internal/writing-guide) · [Figure Guide](https://github.com/zlab-princeton-internal/figure-guide) · [Paper Checking Prompt](https://github.com/zlab-princeton-internal/paper-checking-prompt)
+**相关**: [Writing Guide](https://github.com/zlab-princeton-internal/writing-guide) · [Figure Guide](https://github.com/zlab-princeton-internal/figure-guide) · [AI Paper Checking](https://github.com/zlab-princeton-internal/ai-paper-checking)
 
 ## 形式
 
@@ -31,7 +31,7 @@ Session 期间多做笔记，方便事后整理。如果有帮助，可以用 **
 ## Session 之前
 
 **作者**：
-- 用尽一切手段（自查、AI、同行反馈）确保论文达到最佳质量。可以使用我们的 [AI 论文检查](https://github.com/zlab-princeton-internal/paper-checking-prompt)，也可以用你自己喜欢的 AI 工具。
+- 用尽一切手段（自查、AI、同行反馈）确保论文达到最佳质量。可以使用我们的 [AI 论文检查](https://github.com/zlab-princeton-internal/ai-paper-checking)，也可以用你自己喜欢的 AI 工具。
 - Session 之前必须通过所有 [writing](https://github.com/zlab-princeton-internal/writing-guide) 和 [figure](https://github.com/zlab-princeton-internal/figure-guide) requirements。不要带着还有明显问题的稿子来。
 
 **审稿人**：
@@ -58,7 +58,7 @@ Session 期间多做笔记，方便事后整理。如果有帮助，可以用 **
 
 - 对着打印稿逐页过
 - 讨论和辩论发现的任何问题
-- 现场跑 [AI 检查](https://github.com/zlab-princeton-internal/paper-checking-prompt)，对着 AI 生成的 report 一起讨论
+- 现场跑 [AI 检查](https://github.com/zlab-princeton-internal/ai-paper-checking)，对着 AI 生成的 report 一起讨论
 - 能当场修的就当场修
 
 **如果觉得已经没有问题了，继续看。一定会发现新的问题。** 不要因为暂时看不出问题就提前结束。两个小时，不要缩短。
