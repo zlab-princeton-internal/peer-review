@@ -87,14 +87,14 @@ Then write up the four deliverables listed at the top.
 
 ## Additional High-Level Feedback
 
-Beyond the paired peer review, the author should seek **1-2 more people** for high-level feedback. These reviewers do not need to check formatting or figure rules. They only need to read the abstract, introduction, and contributions, and give honest feedback on:
+Beyond the paired peer review, the author should also seek **1-2 more people** for a lighter, ~45-min high-level review. They do not need to check formatting or figure rules — just read the abstract, introduction, and contributions, and give honest feedback on:
 
 - Is it clear what the paper does and why it matters?
 - Are the contributions easy to understand?
 - Is the writing reader-friendly?
 - Would they want to read the rest of the paper?
 
-This is a lighter ask (about one hour of effort per person) and can happen before or after the paired session. The author should actively seek this out.
+The author should actively seek this out, before or after the paired session.
 
 ## Philosophy: Internalize the Guidelines
 
