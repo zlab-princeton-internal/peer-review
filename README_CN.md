@@ -4,6 +4,8 @@
 
 > 本指南面向 [Zhuang Liu](https://liuzhuang13.github.io/) 组内成员。欢迎其他人参考或改编使用。
 
+**相关**: [Writing Guide](https://github.com/zlab-princeton-internal/writing-guide) · [Figure Guide](https://github.com/zlab-princeton-internal/figure-guide) · [Paper Checking Prompt](https://github.com/zlab-princeton-internal/paper-checking-prompt)
+
 ## 形式
 
 两人配对，一次专注一篇论文。预定一个**两小时的 session**，找一个有屏幕的会议室。

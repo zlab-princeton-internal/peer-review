@@ -4,6 +4,8 @@
 
 > This guide is intended for [Zhuang Liu](https://liuzhuang13.github.io/)'s group members. Others are welcome to adopt or adapt it for their own use.
 
+**Related**: [Writing Guide](https://github.com/zlab-princeton-internal/writing-guide) · [Figure Guide](https://github.com/zlab-princeton-internal/figure-guide) · [Paper Checking Prompt](https://github.com/zlab-princeton-internal/paper-checking-prompt)
+
 ## Format
 
 Two students pair up and focus on one paper at a time. Book a **two-hour session** in a room with a screen.
