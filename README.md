@@ -14,6 +14,20 @@ Two students pair up and focus on one paper at a time. Book a **two-hour session
 - Must be focused, uninterrupted time. No rushing.
 - The earlier the better, as long as the focus condition is met.
 
+## Deliverables
+
+Know up front what you will produce. Four written documents from the process:
+
+**1. Paper feedback.** All fixes and suggestions raised during the session, organized by person. Each fix is attributed to whoever raised it, listed under their name. Collect screenshot examples along the way: bad examples, good examples, and before/after comparisons showing how a fix improved something. These can be used to improve the writing and figure guides.
+
+**2. Guide feedback.** Any issues found with the paper writing guidelines or figure guidelines themselves: rules that are unclear, missing, redundant, or failed to catch a problem. This helps improve the guides over time.
+
+**3. AI checker feedback.** Feedback on the AI paper checking system: what it did well, what it missed, where it gave wrong or unhelpful results. This will be used to further refine the AI checking prompt.
+
+**4. Peer review process feedback.** Feedback on the peer review system itself. What worked well and what didn't. For example: Was printing useful? Was two hours too long or too short? Was the reviewer's background too close or too far from the paper's topic? Was the scheduling convenient? Was the whole process valuable or unnecessary? Be honest. Both positive and negative feedback help improve the system.
+
+Take notes during the session so you can produce these afterwards. Feel free to use **Notion transcription** to record the discussion if it helps.
+
 ## Before the Session
 
 **Author**:
@@ -69,19 +83,7 @@ If one two-hour session is not enough, book another one. Keep going until **both
 
 Both the author and the reviewer must be able to approve the paper. The process is not done until both are satisfied.
 
-## Note-taking & Deliverables
-
-During the session, use **Notion transcription** to record the discussion (to avoid missing anything). You can also take handwritten notes.
-
-After the session, produce four written deliverables:
-
-**1. Paper feedback.** All fixes and suggestions raised during the session, organized by person. Each fix is attributed to whoever raised it, listed under their name. Collect screenshot examples along the way: bad examples, good examples, and before/after comparisons showing how a fix improved something. These can be used to improve the writing and figure guides.
-
-**2. Guide feedback.** Any issues found with the paper writing guidelines or figure guidelines themselves: rules that are unclear, missing, redundant, or failed to catch a problem. This helps improve the guides over time.
-
-**3. AI checker feedback.** Feedback on the AI paper checking system: what it did well, what it missed, where it gave wrong or unhelpful results. This will be used to further refine the AI checking prompt.
-
-**4. Peer review process feedback.** Feedback on the peer review system itself. What worked well and what didn't. For example: Was printing useful? Was two hours too long or too short? Was the reviewer's background too close or too far from the paper's topic? Was the scheduling convenient? Was the whole process valuable or unnecessary? Be honest. Both positive and negative feedback help improve the system.
+Then write up the four deliverables listed at the top.
 
 ## Additional High-Level Feedback
 
