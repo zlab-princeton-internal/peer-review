@@ -4,7 +4,7 @@
 
 > 本指南面向 [Zhuang Liu](https://liuzhuang13.github.io/) 组内成员。欢迎其他人参考或改编使用。
 
-**相关**: [Writing Guide](https://github.com/zlab-princeton-internal/writing-guide) · [Figure Guide](https://github.com/zlab-princeton-internal/figure-guide) · [AI Paper Checking](https://github.com/zlab-princeton-internal/ai-paper-checking)
+**相关**: [Writing Guide](https://github.com/zlab-princeton-internal/writing-guide) · [Figure Guide](https://github.com/zlab-princeton-internal/figure-guide) · [AI Paper Checking](https://github.com/zlab-princeton-internal/ai-paper-checking) · [Writing Self-Review](https://github.com/zlab-princeton-internal/paper-rating)
 
 ## 形式
 
